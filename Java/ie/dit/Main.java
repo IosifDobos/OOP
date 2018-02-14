@@ -12,5 +12,8 @@ public class Main
 {
   public static void main(String[] args) {
   	
+  	TuneBook newtb = new TuneBook(System.getProperty("user.dir") + "file.abc");
+
+  	newtb.findTune("A").play();
   }
 }
