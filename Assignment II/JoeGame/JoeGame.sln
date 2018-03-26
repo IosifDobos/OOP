@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoeGame.Plugins", "JoeGame.Plugins.csproj", "{14F18A05-3479-A815-59CA-87CE435F6EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoeGame", "JoeGame.csproj", "{005D15A0-AFF1-88D2-6DD2-8D21C4B36B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoeGame.Editor.Plugins", "JoeGame.Editor.Plugins.csproj", "{EC8235C0-97F4-7EB2-3DAE-7F5932F1A446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F18A05-3479-A815-59CA-87CE435F6EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F18A05-3479-A815-59CA-87CE435F6EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F18A05-3479-A815-59CA-87CE435F6EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F18A05-3479-A815-59CA-87CE435F6EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005D15A0-AFF1-88D2-6DD2-8D21C4B36B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005D15A0-AFF1-88D2-6DD2-8D21C4B36B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005D15A0-AFF1-88D2-6DD2-8D21C4B36B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005D15A0-AFF1-88D2-6DD2-8D21C4B36B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8235C0-97F4-7EB2-3DAE-7F5932F1A446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8235C0-97F4-7EB2-3DAE-7F5932F1A446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8235C0-97F4-7EB2-3DAE-7F5932F1A446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8235C0-97F4-7EB2-3DAE-7F5932F1A446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
